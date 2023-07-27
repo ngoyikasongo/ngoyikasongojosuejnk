@@ -1,0 +1,112 @@
+body{
+    background-color: antiquewhite;
+}
+#op{
+background-image: url(fontt.jpg);
+width: 1300px;
+height: 450px;
+}
+.Opp{
+    border: 1px solid beige;
+    width: 500px;
+    height: 450px;
+}
+.Opp1{
+    border: 1px solid black;
+    width: 750px;
+    height: 450px;
+    margin-left: 540px;
+    margin-top: -450px;
+}
+#Footer2{
+    background-color: aliceblue;
+    border: 3px solid blue;
+    width: 1330px;
+    height: 200px;
+}
+.titre1{
+    margin-left: 70px;
+}
+.titre2{
+    margin-left: 400px;
+    margin-top: -120px;
+}
+.titre3{
+    margin-left: 730px;
+    margin-top: -120px;
+}
+.titre4{
+    margin-left: 1000px;
+    margin-top: -120px;
+}
+#tete{
+    background-color: azure;
+    border: 1px solid blue;
+    width: 1330px;
+    height: 62px;
+}
+.ttr{
+    margin-left: 120px;
+    margin-top: -70px;
+}
+.label{
+    margin-left: 1000px;
+    margin-top: -30px;
+}
+.ttre{
+    margin-left: 100px;
+    margin-top: -70px;
+}
+#contenu{
+    background-image: url(milieu.JPG );
+    border: 1px solid blue;
+    width: 1330px;
+    height: 500px;
+}
+.letre{
+    color: white;
+}
+.letr{
+    border: 2px solid blue;
+    margin-top: -490px;
+    margin-left: 570px;
+    width: 750px;
+    height: 497px;
+}
+#haut1{
+    border: 1px solid blue;
+    width: 1330px;
+    height: 500px;
+}
+.haut2{
+    border: 1px solid blue;
+    width: 830px;
+    height: 500px;
+    background-image: url(dir.png);
+    margin-left: 500px;
+}
+.haut3{
+    margin-top: -500px;
+}
+#centre{
+    border: 1px solid blue;
+    width: 1330px;
+    height: 350px;
+}
+#centre2{
+    width: 1330px;
+    height: 350px;
+    background-image: url(milieu.JPG);
+}
+.cen1{
+    color: blanchedalmond;
+    width: 500px;
+    height: 350px;
+}
+.cen2{
+    background-color: aqua;
+    width: 680px;
+    height: 350px;
+    margin-left: 650px;
+    margin-top: -365px;
+}

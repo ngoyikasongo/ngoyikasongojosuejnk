@@ -1,0 +1,260 @@
+body{
+    background-color: bisque;
+}
+#tete{
+    border: 1px solid blue;
+    background-color: aliceblue;
+    width: 1350px;
+    height: 70px;
+}
+.menu{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top: -20px;
+}
+.img1{
+    margin-left: -1105px;
+    margin-top: -22px;
+}
+h1{
+    margin-left: 50px;
+    margin-top: -45px;
+}
+.lab{
+    margin-left: 1150px;
+    margin-top: -60px;
+}
+#intro{
+    background-image: url(milieu.JPG);
+    width: 1350px;
+    height: 400px;
+}
+h2{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 250px;
+}
+#intro1{
+    border: 1px solid blue;
+    background-image: url(btm.jpg);
+    width: 400px;
+    height: 300px;
+}
+h4{
+    margin-left: 150px;
+}
+#intro2{
+    border: 1px solid blue;
+    background-image: url(emb.png);
+    width: 400px;
+    height: 300px;
+    margin-left: 420px;
+    margin-top: -300px;
+}
+#intro3{
+    border: 1px solid blue;
+    background-image: url(dir.png);
+    width: 400px;
+    height: 300px;
+    margin-left: 840px;
+    margin-top: -300px;
+}
+#intro4{
+    border: 1px solid blue;
+    background-image: url(info.png);
+    width: 400px;
+    height: 300px;
+}
+#intro5{
+    border: 1px solid blue;
+    background-image: url(btment.jpg);
+    width: 400px;
+    height: 300px;
+    margin-left: 420px;
+    margin-top: -300px;
+}
+#intro6{
+    border: 1px solid blue;
+    background-image: url(sall.png);
+    width: 400px;
+    height: 300px;
+    margin-left: 420px;
+    margin-top: -300px;
+}
+#intro7{
+    border: 1px solid blue;
+    background-image: url(camera.png);
+    width: 400px;
+    height: 300px;
+}
+#intro8{
+    border: 1px solid blue;
+    background-image: url(les.png);
+    width: 400px;
+    height: 300px;
+    margin-left: 420px;
+    margin-top: -300px;
+}
+#intro9{
+    border: 1px solid blue;
+    background-image: url(btm.jpg);
+    width: 400px;
+    height: 300px;
+    margin-left: 840px;
+    margin-top: -300px;
+}
+dd{
+    height: 50px;
+margin-left: 150px;
+}
+#panel1{
+    border: 1px solid blue;
+    width: 310px;
+    height: 250px;
+}
+#panel2{
+    border: 1px solid blue;
+    width: 310px;
+    height: 250px;
+    margin-left: 320px;
+    margin-top: -285px;
+}
+#panel3{
+    border: 1px solid blue;
+    width: 310px;
+    height: 250px;
+    margin-left: 680px;
+    margin-top: -300px;
+}
+#panel4{
+    border: 1px solid blue;
+    width: 310px;
+    height: 250px;
+    margin-left: 1000px;
+    margin-top: -270px;
+}
+#partie1{
+    border: 2px solid blue;
+    height: 250px;
+    width: 310px;
+    margin-left: 37px;
+}
+#partie2{
+border: 2px solid blue;
+width: 310px;
+height: 250px;
+margin-left: 360px;
+margin-top: -270px;
+}
+#partie3{
+border: 2px solid blue;
+width: 310px;
+height: 250px;
+margin-left: 680px;
+margin-top: -270px;
+}
+#partie4{
+border: 2px solid blue;
+width: 310px;
+height: 250px;
+margin-left: 35px;
+margin-top: -px;
+}
+#footer{
+    border: 3px solid blue;
+    background-color: #aaa;
+    width: 1330px;
+    height: 420px;
+}
+.foo1{
+     font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: black;
+    margin-left: 20px;
+}
+#haut1{
+    background-color: #aaa;
+    border: 2px solid blue;
+    width: 600px;
+    height: 600px;
+    margin-left: 400px;
+}
+#moi{
+    border: 3px solid blue;
+    margin-left: 250px;
+    width: 800px;
+    height: 800px;
+}
+#paie{
+    border: 2px solid blue ;
+    width: 800px;
+    height: 700px;
+    margin-left: 250px;
+}
+#paie2{
+    border: 2px solid blue;
+    width: 600px;
+    height: 700px;
+    margin-left: 600px;
+    margin-top: -700px;
+}
+.me{
+    margin-top: 300px;
+    background-color: white;
+    height: 300px;
+}
+#op{
+    border: 2px solid blue;
+    width: 1150px;
+    height: 420px;
+    margin-left: 100px;
+
+}
+.Opp{
+    background-color: aquamarine;
+    width: 1150px;
+    height: 70px;
+    margin-top: 180px;
+}
+#conte{
+    border: 2px solid blue;
+    width: 600px;
+    height: 400px;
+    background-color: aliceblue;
+    margin-left: 500px;
+}
+.josue{
+    color: blueviolet;
+}
+.co{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 150px;
+}
+.foo2{
+    font-family: 'Courier New', Courier, monospace;
+   font-size: 30px;
+   color: black;
+   margin-left: 450px;
+   margin-top: -385px;
+}
+.foo3{
+    font-family: 'Courier New', Courier, monospace;
+   font-size: 30px;
+   color: black;
+   margin-left: 880px;
+   margin-top: -385px;
+}
+.tr1{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -50px;
+}
+#footer2{
+    background-color: blanchedalmond;
+    border: 3px solid blue;
+    width: 1300px;
+    height: 200px;
+}

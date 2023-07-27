@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<?php
+$dbfrais_scolaire = new PDO('mysql:host=localhost; dbGestionDeReservation=test', $Username,$Password);
+
+?>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bod">
+    
+    <h1>CONNEXION</h1>
+    
+    <table bgcolor="bleu" border="0" width="80%" align="center">
+        <form action="Login.php" method="post">
+            <tr>
+                <td>
+                    <label for="Nom">Nom</label>
+                </td>
+                <td>
+                    <br><input type="text" class="form-control" id="Nom" placeholder="votre Nom" name="Username">
+                </td>
+            </tr>
+        <tr>
+            <td>
+                <label for="Password">Password</label>
+            </td>
+            <td>
+                <input type="text" class="form-control" id="password" placeholder="votre mot de passe" name="Password">
+            </td>
+        </tr>
+       
+        <tr>
+            <td>
+            <div><button type="submit"> <a href="paiements.php">Se connecter</a></button>
+            </td>
+        </tr>
+        </form>
+    </table>
+    
+</body>
+</html>
